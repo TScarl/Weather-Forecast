@@ -6,14 +6,15 @@ I ran out've time for this one. worked too much on the group assignment. I got a
 Welcome to the Weather Forecaster, the greatest half-built weather predictor out there. Get all of the long 5 days forecasts displayed with a brilliantly beautiful UI. See the weather forecast, temperature, humidity and wind, all well in advance.
 
 ## Diagram
-
+![Screenshot (21)](https://user-images.githubusercontent.com/123338043/228737847-575f95c4-c8a3-4275-920f-3d8ef2e4b2ea.png)
 
 ## Usage Instructions
+Basically just look at the JS pseudocode and finish it off.
+The CSS could also use a bit of work.
+Some work done on the grid layout of elements would benefit the UI greatly.
 
 ## Known Issues
-It has a pretty funky color scheme, i was just playing around.
-Other than that i think it works exactly as specified.
+Other than only being half done, she's not a bad piece of art.
 
 ### Conclusion
-Get ready to enjoying a new, more productive you!
-No guarantees that this product can or will actually make your wife happy, sometimes thats harder than mission impossible.# Work-Day-Scheduler
+A finished product is always better!
